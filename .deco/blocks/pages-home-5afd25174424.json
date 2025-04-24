@@ -1,0 +1,337 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Header.tsx",
+      "navigation": {
+        "links": [
+          {
+            "label": "Home",
+            "url": "#home"
+          },
+          {
+            "label": "Sobre nós",
+            "url": "#sobre-nos"
+          },
+          {
+            "label": "O pedido",
+            "url": "#pedido"
+          },
+          {
+            "label": "Timer",
+            "url": "#timer"
+          },
+          {
+            "label": "Local",
+            "url": "#local"
+          },
+          {
+            "label": "Presentes",
+            "url": "#presentes"
+          },
+          {
+            "label": "Confirme Presença",
+            "url": "#confirme-presenca"
+          }
+        ],
+        "buttons": []
+      },
+      "logo": {
+        "src": "https://assets.decocache.com/casamentovidu/474a16c5-5700-4f57-8fb3-b80ffa63ecf6/logo.png",
+        "alt": "Eduarda & Vinicius"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/BannerVidu.tsx",
+        "title": "Eduarda & Vinicius",
+        "weddingDate": "03.10.2025",
+        "image": "https://data.decoassets.com/casamentovidu/bfe31bb8-85ad-4ec5-a264-7127c8de02bb/pedido.jpg"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/TimelineVidu.tsx",
+        "title": "Sobre nós",
+        "description": "Bem-vindos à nossa história de amor! Aqui compartilhamos os momentos mais especiais da nossa jornada juntos, desde o primeiro encontro até o grande dia. Acompanhe nossa timeline e faça parte desta celebração única.",
+        "years": [
+          {
+            "images": [
+              "https://assets.decocache.com/casamentovidu/cf737086-c30f-4ffb-bb80-437fd5b4fe3b/Frame-5.png"
+            ],
+            "year": "2016",
+            "description": "Com um livro de Shakespeare, um buquê de rosas e uma caixa de chocolates, Vinicius - nervoso - pediu Duda em namoro. Dando início à história deles!"
+          },
+          {
+            "images": [
+              "https://data.decoassets.com/casamentovidu/358426a2-a3bb-40bd-9970-83a36dde670b/2017.jpg"
+            ],
+            "year": "2017",
+            "description": "Duda e Vinicius estavam se conhecendo cada vez mais: histórias, gostos e opiniões. Aqui, o ponto de encontro principal deles era o shopping com um bom milkshake e uma foto no espelho."
+          },
+          {
+            "images": [
+              "https://data.decoassets.com/casamentovidu/ca00355e-65be-4ce3-9f78-ba2314fe4fab/2018.jpg"
+            ],
+            "year": "2018",
+            "description": "O famoso ano do vestibular. Foi aqui em que eles começaram a alinhar e decidir os seus futuros. Vinicius ajudou Duda a escolher Direito na UFPB (JP) e Duda ajudou Vinicius a escolher Computação na UFCG (CG)."
+          },
+          {
+            "images": [
+              "https://data.decoassets.com/casamentovidu/48f26d78-2697-4419-8967-eb5a15a5b20d/2019.jpg"
+            ],
+            "year": "2019",
+            "description": "Quem diria que morar em cidades distintas seria um desafio para o casal? Todo mundo, talvez kkkk. Mas eles não se deixaram abalar e fizeram de tudo para se ver sempre que podiam. Para quem se acostumou a se ver todos os dias, se contentar com 1 visita quinzenal foi um processo difícil."
+          },
+          {
+            "images": [
+              "https://data.decoassets.com/casamentovidu/69c89989-040f-475f-bb27-495432be2949/2020.jpg"
+            ],
+            "year": "2020",
+            "description": "E ai, veio a pandemia. Já mais habituados a se verem pouco, mas nunca verdadeiramente acostumados, veio uma época em que chamadas de vídeo se tornaram a única escapatória para matar a saudade e vontade de se verem. Novamente, isso não foi o suficiente para os afastar."
+          },
+          {
+            "images": [
+              "https://data.decoassets.com/casamentovidu/44fea10c-dab3-445a-ae9a-0db21bf20097/2021.jpg"
+            ],
+            "year": "2021",
+            "description": "Com os cursos superiores já pela metade, as rotinas se tornaram mais leves, permitindo visitas que antes eram raras devido às intensas noites de estudo para provas. O encontro que antes só ocorria a cada 15 dias transformou-se em um ansiado final de semana para estarem juntos."
+          },
+          {
+            "images": [
+              "https://data.decoassets.com/casamentovidu/90adc269-479f-4f26-ba47-16ca76190e99/2022.jpg",
+              "https://assets.decocache.com/casamentovidu/52443f7d-01d9-4132-89de-a1fa65a45f3c/Frame-4.png"
+            ],
+            "year": "2022",
+            "description": "Vinicius e Duda viajaram para a Bahia, vivendo novas experiências juntos. Mas 2022 também trouxe um momento muito difícil com a partida de Flávio Ribeiro, pai de Vinicius e sogro que sempre esteve presente para Duda. Nessa dor, eles se apoiaram ainda mais, aprendendo a enfrentar juntos os desafios da vida."
+          },
+          {
+            "images": [
+              "https://data.decoassets.com/casamentovidu/3692e9da-55c0-49fe-8fcc-aac9e51936a2/2023.jpg"
+            ],
+            "year": "2023",
+            "description": "Aqui as viagens continuaram, puderam viajar juntos para o Rio de Janeiro. Foi um ano que a universidade , que antes aparentava ser infinita, agora já estava perto do seu fim. Foi uma época para alinhar futuros e traçar objetivos como casal."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Pedido.tsx",
+        "title": "2024",
+        "description": "Vinicius e Duda decidiram ir além de apenas sonhar e tornaram realidade um desejo planejado desde 2023. Em uma conversa, Vinicius perguntou a Duda qual seria o lugar dos seus sonhos, se tudo fosse possível. Sem hesitar, Duda revelou que, desde a infância, seu maior desejo era visitar a Disney e Nova York. Com dedicação, poupança e muito planejamento, eles transformaram esse sonho em realidade, provando que tudo o que almejarem juntos pode ser alcançado. Mas a pergunta de Vinicius não era apenas curiosidade — ele tinha um plano em mente. Durante essa viagem especial, ele decidiu transformar um momento mágico em um marco eterno. Com o mesmo nervosismo e a voz trêmula que sentira no dia 3 de outubro de 2016, ele se ajoelhou diante de sua primeira namorada, sua primeira companheira e sua primeira amiga, e fez a pergunta que mudaria para sempre o rumo de suas vidas: \"Quer se casar comigo?\""
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Contagem.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Local.tsx",
+        "places": [
+          {
+            "name": "Cerimônia",
+            "description": "A cerimônia acontecerá na Igreja de Nossa Senhora do Carmo pontualmente às 16h no dia 03 de Outubro de 2025. Contamos com sua presença para testemunhar nossa união diante de Deus.",
+            "street": "R. José Bonifácio - Centro, Campina Grande",
+            "image": "https://data.decoassets.com/casamentovidu/444918aa-0556-4d08-997a-ef8ec48eac1c/church.jpg"
+          },
+          {
+            "name": "Recepção",
+            "description": "A recepção acontecerá logo após a cerimônia, no Navi Recepções. Esperamos você para comemorar esse momento inesquecível!",
+            "street": "Av. Bélgica, 225 - Nações, Campina Grande",
+            "image": "https://data.decoassets.com/casamentovidu/748e8b6c-d93e-4dd8-9c77-6274899b7ef4/recepcao.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ListaPresentes.tsx",
+        "products": [
+          {
+            "name": "Cota Reforma",
+            "price": 1000,
+            "image": "https://assets.decocache.com/casamentovidu/8f911165-cd56-46c8-9b24-d884382f7256/cota-reforma.jpg",
+            "link": "https://buy.stripe.com/9AQ3fw1yV2AybbW7sV"
+          },
+          {
+            "name": "Bandeja",
+            "price": 259,
+            "image": "https://assets.decocache.com/casamentovidu/6db3afc4-db84-403b-abd1-6a99c5289f61/Imagem-do-WhatsApp-de-2025-03-30-a(s)-19.38.54_fad2d26a.jpg",
+            "link": "https://buy.stripe.com/4gwdUa1yVb74gwg6oQ"
+          },
+          {
+            "name": "Centrifuga de suco com jarra",
+            "price": 430,
+            "image": "https://assets.decocache.com/casamentovidu/8cc8f81a-e7c0-4d8d-bedc-b5c283561908/p3.webp",
+            "link": "https://buy.stripe.com/4gweYe3H3cb8dk48wW"
+          },
+          {
+            "name": "Churrasqueira elétrica",
+            "price": 195,
+            "image": "https://assets.decocache.com/casamentovidu/89444a43-7d4f-4db2-9690-465f333071fb/Imagem-do-WhatsApp-de-2025-03-30-a(s)-19.39.31_225e1092.jpg",
+            "link": "https://buy.stripe.com/dR6dUa91nb74dk4dRh"
+          },
+          {
+            "name": "Cafeteira",
+            "price": 638,
+            "image": "https://assets.decocache.com/casamentovidu/5bfdd5c2-35ba-42eb-9d82-4063c08df58a/p4.jpg",
+            "link": "https://buy.stripe.com/00g6rI7Xjb746VG7sR"
+          },
+          {
+            "name": "Travessas",
+            "price": 180,
+            "image": "https://assets.decocache.com/casamentovidu/fa3113e1-8804-4755-9a5a-ea71f853bbfb/Imagem-do-WhatsApp-de-2025-03-30-a(s)-19.38.48_38482e2a.jpg",
+            "link": "https://buy.stripe.com/9AQ2bs3H3b7493O5kI"
+          },
+          {
+            "name": "Forno Elétrico ",
+            "price": 2199,
+            "image": "https://assets.decocache.com/casamentovidu/d2aec525-7a15-443f-b2bf-19329ad96939/p23.jpg",
+            "link": "https://buy.stripe.com/dR6dUa7Xj7US1BmcMY"
+          },
+          {
+            "name": "Cooktop",
+            "price": 519,
+            "image": "https://assets.decocache.com/casamentovidu/d78d2f15-9147-4442-9488-5c025c81b915/p24.jpg",
+            "link": "https://buy.stripe.com/9AQg2ia5r0sq1BmaEP"
+          },
+          {
+            "name": "Micro-ondas",
+            "link": "https://buy.stripe.com/5kA03kcdzdfcfsc7sC",
+            "price": 882,
+            "image": "https://assets.decocache.com/casamentovidu/0d8c6de6-5169-4be0-bd8c-59ac760b9736/Imagem-do-WhatsApp-de-2025-03-30-a(s)-19.38.41_7a41e17c.jpg"
+          },
+          {
+            "name": "Jarra de vidro",
+            "link": "https://buy.stripe.com/dR64jAgtPcb8dk4cN8",
+            "price": 171,
+            "image": "https://assets.decocache.com/casamentovidu/6dc05e91-6aec-4cbb-9d5a-1b8523912073/p7.webp"
+          },
+          {
+            "name": "Mixer",
+            "link": "https://buy.stripe.com/00g3fwelHfnkfsccN1",
+            "price": 237,
+            "image": "https://assets.decocache.com/casamentovidu/c54081e9-5ff8-4fd6-a456-39c077835e03/p18.jpg"
+          },
+          {
+            "name": "Lava-Louças",
+            "price": 3160,
+            "image": "https://assets.decocache.com/casamentovidu/9e8dc2c2-2b82-454e-b6be-52348457e386/p22.jpg",
+            "link": "https://buy.stripe.com/eVa4jA5Pb4IGfsc9AN"
+          },
+          {
+            "name": "Conjunto Marinex",
+            "link": "https://buy.stripe.com/4gw9DU7Xjb74gwg14n",
+            "price": 249,
+            "image": "https://assets.decocache.com/casamentovidu/5e8a3b4e-5b4f-4bb2-a853-43edc66f00cc/p13.jpg"
+          },
+          {
+            "name": "Pendente Tubo",
+            "price": 600,
+            "image": "https://assets.decocache.com/casamentovidu/5087ec78-59b5-4bac-90f9-a3b78dc7c8a0/p17.jpg",
+            "link": "https://buy.stripe.com/fZe17o3H35MK5RCeVa"
+          },
+          {
+            "name": "Garrafa Térmica",
+            "link": "https://buy.stripe.com/6oE4jA3H33ECeo8cN0",
+            "price": 282,
+            "image": "https://assets.decocache.com/casamentovidu/a387aafd-e466-4070-8206-2b5e0186b8f9/p21.jpg"
+          },
+          {
+            "name": "Kit de toalhas",
+            "link": "https://buy.stripe.com/28o3fw91nb74eo84gB",
+            "price": 258,
+            "image": "https://assets.decocache.com/casamentovidu/602c4979-a42e-4f5f-8be5-e42505140fe2/p8.webp"
+          },
+          {
+            "name": "Echo dot",
+            "link": "https://buy.stripe.com/eVa5nE1yV1wu3Ju28s",
+            "price": 426,
+            "image": "https://assets.decocache.com/casamentovidu/7478809c-a704-4452-9fe1-9dbe213466fb/p15.jpg"
+          },
+          {
+            "name": "Panela de pressão",
+            "link": "https://buy.stripe.com/cN24jAb9vfnkeo800i",
+            "price": 508,
+            "image": "https://assets.decocache.com/casamentovidu/febae967-9d64-4861-b061-d3cc5c49f9f2/p19.jpg"
+          },
+          {
+            "name": "Luminária Pendente",
+            "link": "https://buy.stripe.com/8wMaHYelHa301Bm8wN",
+            "price": 206,
+            "image": "https://assets.decocache.com/casamentovidu/03d49c13-d280-4250-bac4-4fecd0525493/p16.jpg"
+          },
+          {
+            "name": "Chuveiro Acqua",
+            "link": "https://buy.stripe.com/cN2eYefpLfnkgwg5kt",
+            "price": 529,
+            "image": "https://assets.decocache.com/casamentovidu/73ac5407-8a30-44b7-814f-3bb188a5c26d/p20.jpg"
+          },
+          {
+            "name": "Ar Condicionado",
+            "price": 2234,
+            "link": "https://buy.stripe.com/bIYaHYa5r8YWbbW6ow",
+            "image": "https://assets.decocache.com/casamentovidu/d56bf887-4aeb-45db-953a-5cfbf3af6fca/Imagem-do-WhatsApp-de-2025-03-30-a(s)-19.38.41_2cfc8c6d.jpg"
+          },
+          {
+            "name": "Air fryer",
+            "image": "https://assets.decocache.com/casamentovidu/ad4bcb1f-22cd-4fe5-8d73-2fd02acbd76e/p25.jpg",
+            "link": "https://buy.stripe.com/eVa8zQdhDa300xicMT",
+            "price": 497
+          },
+          {
+            "name": "Robô Aspirador",
+            "link": "https://buy.stripe.com/00geYea5r5MKdk428e",
+            "price": 1290,
+            "image": "https://assets.decocache.com/casamentovidu/8b719cb9-013c-4d1f-b1f2-7352326f4785/Imagem-do-WhatsApp-de-2025-03-30-a(s)-19.39.06_f7592913.jpg"
+          },
+          {
+            "name": "Porta doce",
+            "price": 234,
+            "link": "https://buy.stripe.com/fZe4jAfpL4IGgwgaEJ",
+            "image": "https://assets.decocache.com/casamentovidu/e7bd344d-78b2-4a19-a7c3-7aca091cbe16/p12.webp"
+          },
+          {
+            "name": "Pipoqueira elétrica",
+            "price": 285,
+            "link": "https://buy.stripe.com/5kA2bs3H33ECdk4147",
+            "image": "https://assets.decocache.com/casamentovidu/80ba72b5-375b-402a-9701-c862a2ef946f/p10.jpg"
+          },
+          {
+            "name": "Passadeira a vapor",
+            "link": "https://buy.stripe.com/fZe7vM6Tf5MK7ZKaEI",
+            "price": 467,
+            "image": "https://assets.decocache.com/casamentovidu/d7b68226-4c1e-4a0c-b793-a7eeb3231fa3/p11.webp"
+          }
+        ],
+        "description": "Sua presença é nosso maior presente, mas se desejar nos presentear aqui estão algumas opções"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ConfirmePresenca.tsx",
+        "title": "Confirme sua presença",
+        "description": "Confirme sua presença, diretamente conosco, através do Whatsapp abaixo.  Essa etapa é muito importante para nós, não esqueça.",
+        "whatsappLogo": "https://assets.decocache.com/casamentovidu/3bff3fe4-a461-499d-8bae-b36f53589670/whatsapp.png",
+        "whatsappLink": "https://wa.me/5583996310246",
+        "whatsappNoivo": "https://wa.me/5583996310246",
+        "whatsappNoiva": "https://wa.me/5583999340363"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  }
+}
