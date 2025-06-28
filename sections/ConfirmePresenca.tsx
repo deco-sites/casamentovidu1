@@ -4,7 +4,6 @@ interface Props {
     title: string;
     description: string;
     whatsappNoivo: string;
-    whatsappNoiva: string;
     whatsappLogo: ImageWidget;
 }
 
@@ -12,7 +11,6 @@ export default function ConfirmePresenca({
     title,
     description,
     whatsappNoivo,
-    whatsappNoiva,
     whatsappLogo
 }: Props) {
     return (
@@ -39,24 +37,8 @@ export default function ConfirmePresenca({
                             alt="WhatsApp" 
                             className="h-6 w-6 object-contain"
                         />
-                        Noivo
-                    </a>
-
-                    <a 
-                        href={whatsappNoiva}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center justify-center gap-3 bg-[#25D366] text-white px-8 py-4 
-                                 rounded-full hover:bg-[#20BD5A] transition-all duration-300
-                                 hover:shadow-lg font-medium text-lg min-w-[200px]"
-                    >
-                        <img 
-                            src={whatsappLogo}
-                            alt="WhatsApp" 
-                            className="h-6 w-6 object-contain"
-                        />
-                        Noiva
-                    </a>
+                        Suporte
+                    </a>         
                 </div>
             </div>
         </div>
