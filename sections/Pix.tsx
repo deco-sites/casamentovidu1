@@ -1,4 +1,4 @@
-import PixIsland from "../islands/PixIsland.Tsx";
+import PixIsland from "site/islands/PixIsland.tsx";
 
 interface PixKeyItem {
     label?: string;
